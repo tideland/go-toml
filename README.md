@@ -1,5 +1,14 @@
 # Tideland Go TOML Parser
 
+[![GitHub release](https://img.shields.io/github/release/tideland/go-toml.svg)](https://github.com/tideland/go-toml)
+[![GitHub license](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://raw.githubusercontent.com/tideland/go-toml/master/LICENSE)
+[![Go Module](https://img.shields.io/github/go-mod/go-version/tideland/go-toml)](https://github.com/tideland/go-toml/blob/master/go.mod)
+[![GoDoc](https://godoc.org/tideland.dev/go/toml?status.svg)](https://pkg.go.dev/mod/tideland.dev/go/toml?tab=packages)
+![Workflow](https://github.com/tideland/go-toml/actions/workflows/build.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tideland/go-toml)](https://goreportcard.com/report/tideland.dev/go/toml)
+
+## Overview
+
 A standalone TOML v1.0.0 parser for Go, following Tideland standards.
 
 ## Features
