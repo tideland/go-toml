@@ -1,0 +1,13 @@
+# Table arrays test
+
+[[fruits]]
+name = "apple"
+color = "red"
+
+[[fruits]]
+name = "banana"
+color = "yellow"
+
+[[fruits]]
+name = "orange"
+color = "orange"

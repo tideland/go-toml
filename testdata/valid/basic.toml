@@ -1,0 +1,16 @@
+# Basic TOML file for testing
+
+title = "TOML Example"
+count = 42
+pi = 3.14
+enabled = true
+
+[server]
+host = "localhost"
+port = 8080
+
+[database]
+server = "192.168.1.1"
+ports = [8001, 8001, 8002]
+connection_max = 5000
+enabled = true

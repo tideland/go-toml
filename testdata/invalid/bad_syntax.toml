@@ -1,0 +1,3 @@
+# Invalid TOML - missing closing bracket
+[section
+key = "value"
