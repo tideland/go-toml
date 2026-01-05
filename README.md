@@ -278,4 +278,4 @@ All rights reserved. Use of this source code is governed by the new BSD license.
 ## See Also
 
 - [TOML v1.0.0 Specification](https://toml.io/en/v1.0.0)
-- [Tideland Go Packages](https://tideland.dev/go)
+- [Tideland Go Packages](https://themue.dev/about/whatdoido/#go-libraries)

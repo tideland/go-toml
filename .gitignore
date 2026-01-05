@@ -1,0 +1,18 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of go tools
+*.out
+*.test
+coverage.txt
+coverage.html
+coverage.out
+*.coverprofile
+
+# Misc
+.DS_Store
+tags
